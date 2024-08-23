@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "504800753319",
+    "project_id": "fir-aptech-4fb7c",
+    "storage_bucket": "fir-aptech-4fb7c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504800753319:android:e11a6276a7a5c1c3fc0d82",
+        "android_client_info": {
+          "package_name": "com.example.project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_-xyCstPf9uSx1tWvu_mSy861M3GJ-O8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504800753319:android:8c3e027091e868c4fc0d82",
+        "android_client_info": {
+          "package_name": "com.example.untitled"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_-xyCstPf9uSx1tWvu_mSy861M3GJ-O8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

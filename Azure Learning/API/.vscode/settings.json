@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/55491e19-c3e0-4617-80a8-26a24713fc42/resourceGroups/testres/providers/Microsoft.Web/sites/mttestapi",
+    "appService.deploySubpath": "demoapp"
+}

@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "158897312694",
+    "firebase_url": "https://learning-firebase-1c0e0-default-rtdb.firebaseio.com",
+    "project_id": "learning-firebase-1c0e0",
+    "storage_bucket": "learning-firebase-1c0e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158897312694:android:efedf0c8e7c77a98e2a717",
+        "android_client_info": {
+          "package_name": "com.abdullah.package"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYSCRpl6mcvwYNH1_BGt9Z33e4BcXCvqs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158897312694:android:6c24a5f644afeb0fe2a717",
+        "android_client_info": {
+          "package_name": "com.abdullah.ppp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYSCRpl6mcvwYNH1_BGt9Z33e4BcXCvqs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
